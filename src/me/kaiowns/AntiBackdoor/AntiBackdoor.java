@@ -1,4 +1,4 @@
-package com.kaiowns.antibackdoor;
+package me.kaiowns.antibackdoor;
 
 import cn.nukkit.plugin.PluginBase;
 import cn.nukkit.event.Listener;
