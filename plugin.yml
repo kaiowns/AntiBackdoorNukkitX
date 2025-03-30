@@ -1,0 +1,6 @@
+name: AntiBackdoor
+main: me.kaiowns.AntiBackdoor.AntiBackdoor.java
+version: 1.0
+api: 1.0
+author: kaiowns
+description: Prevents unauthorized OP granting and hidden commands in NukkitX.
